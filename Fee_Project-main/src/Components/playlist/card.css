@@ -1,0 +1,10 @@
+.num {
+  z-index: 1000;
+  float: right;
+}
+
+.card-ca
+{
+  display: flex;
+  flex-wrap: wrap;
+}
